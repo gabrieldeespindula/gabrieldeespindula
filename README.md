@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A beginner systems developer and seeking knowledge</h3>
+<h3 align="center">A begginer systems developer looking for knowledge</h3>
 
 - 🔭 I’m currently working on [Ydeal Tecnologia](https://www.ydealtecnologia.com.br/)
 
