@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A begginer systems developer looking for knowledge</h3>
 
-- 🔭 I’m currently working on [Ydeal Tecnologia](https://www.ydealtecnologia.com.br/)
+- 🔭 I’m currently working at [Ydeal Tecnologia](https://www.ydealtecnologia.com.br/)
 
 - 📫 How to reach me **gdeespindula@gmail.com**
 
