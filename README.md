@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A full stack web developer</h3>
+<h3 align="center">A full stack developer</h3>
 
 - 🔭 I’m currently working on [Ydeal Tecnologia](https://www.ydealtecnologia.com.br/)
 
