@@ -17,3 +17,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldeespindula&theme=dark" alt="gabrieldeespindula" /></p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldeespindula)](https://github.com/anuraghazra/github-readme-stats)
